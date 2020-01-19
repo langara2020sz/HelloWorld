@@ -1,6 +1,7 @@
-## HelloWorld
-# My first repository on GitHub.
+# HelloWorld
 
-this is a chANGE I added on my laptop.
+## My first repository on GitHub.
 
-this line is changed in browser.
+### this is a chANGE I added on my laptop.
+
+#### this line is changed in browser.
